@@ -4,7 +4,7 @@ Connexion broker mqtt, graphes avec node-red et ignition.
 
 ## Membre du groupe 10 :
 
-LOUKAKOU-BATAILLE, ABENAQUI Adrien, AKYOL Olivier, WANG Yannick, ES-KOUSRI Ali, GAMBERT Lucas
+LOUKAKOU-BATAILLE, ABENAQUI Adrien, AKYOL Olivier, WANG Yannick, ES-SKOURI Ali, GAMBERT Lucas
 
 ## Note-Red
 
